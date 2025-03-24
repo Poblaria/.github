@@ -6,4 +6,4 @@ Poblaria is a digital platform combating rural depopulation by centralizing hous
   <img src="/assets/welcome.png">
 </a>
 
-Poblaria is an Epitech Innovative Project (EIP), an end of studies project drived by promotion 2027 students.
+Poblaria is an Epitech Innovative Project (EIP), an end of studies project driven by promotion 2027 students.
